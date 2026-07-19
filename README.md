@@ -1,10 +1,10 @@
 # BitResonant
 
-![Hi, I'm Matteo — audio interaction designer / creative technologist](assets/banner.svg)
+![Hi, I'm Matteo — audio interaction designer / audio developer](assets/banner.svg)
 
 ## 🚀 About Me
 
-Electroacoustic music composer & audio developer from Trieste. I build real-time systems where live data drives synthesis, shaped by a composer's ear.
+Audio interaction designer & audio developer from Trieste. I build real-time systems where live data drives synthesis, shaped by a composer's ear.
 
 - 🔭 **Building:** [SoniChain](https://github.com/BitResonant/SoniChain) — RNBO engine sonifying live crypto-market microstructure · [EV Active Sound Design](https://github.com/BitResonant/EV-engine-sound-sonification) — wavetable-granular synthesis driven by OBD-II telemetry
 - 🎓 **Currently:** MA Electronic Music @ Conservatorio G. Tartini
