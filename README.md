@@ -4,11 +4,11 @@
 
 ## 🚀 About Me
 
-Electronic music composer & audio developer from Trieste — I build real-time systems where data becomes sound.
+Electroacoustic music composer & audio developer from Trieste. I build real-time systems where live data drives synthesis, shaped by a composer's ear.
 
-- 🔭 **Working on:** [SoniChain](https://github.com/BitResonant/SoniChain) — live crypto-market sonification · [EV Active Sound Design](https://github.com/BitResonant/EV-engine-sound-sonification) — telemetry-driven synthesis
-- 🎓 **Currently:** MA Electronic Music @ Conservatorio G. Tartini · next: Sound & Music Computing
-- 💬 **Ask me about:** Max/MSP, RNBO, DSP, data-driven audio
+- 🔭 **Building:** [SoniChain](https://github.com/BitResonant/SoniChain) — RNBO engine sonifying live crypto-market microstructure · [EV Active Sound Design](https://github.com/BitResonant/EV-engine-sound-sonification) — wavetable-granular synthesis driven by OBD-II telemetry
+- 🎓 **Currently:** MA Electronic Music @ Conservatorio G. Tartini
+- 🧠 **Focus:** real-time DSP · sonification mapping · perceptually-informed synthesis
 
 ## 🛠️ Tech Stack
 
